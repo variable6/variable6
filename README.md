@@ -8,7 +8,7 @@ No, I won't bore you with a wall of badges or recite every coding language known
 - I experiment with wild, offbeat ideas and build scalable web apps—often before my morning coffee kicks in.
 
 ## 📫 Check Out My Work
-Wanna see what geeky magic I've been brewing? **[Take a peek here](https://github.com/Hello-Ship-Code)**
+Wanna see what geeky magic I've been brewing? **[Take a peek here](https://github.com/Hello-Ship-Code](https://github.com/variable6?tab=repositories)**
 
 ## 🌍 Connect With Me
 - *LinkedIn:* [Connect with me](#)
