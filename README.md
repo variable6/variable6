@@ -11,7 +11,7 @@ No, I won't bore you with a wall of badges or recite every coding language known
 Wanna see what geeky magic I've been brewing? **[Take a peek here](https://github.com/Hello-Ship-Code)**
 
 ## 🌍 Connect With Me
-- *LinkedIn:* [Connect with me, if you dare](#)
+- *LinkedIn:* [Connect with me](#)
 - *Portfolio:* Still cooking – coming soon!
 
 Let’s build something epic (and maybe a little absurd) together! 🚀
